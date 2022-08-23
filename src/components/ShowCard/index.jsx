@@ -11,4 +11,3 @@ const ShowCard = ({data}) => {
 }
 
 export default ShowCard
-    
